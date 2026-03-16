@@ -36,27 +36,12 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisotaviosm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisotaviosm&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 Contribuições
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisotaviosm&theme=tokyonight)
-
----
 
 # 🌎 Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisotaviosm)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-otavio-silva
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-otavio-silva)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](lluisotaviosm)
 
