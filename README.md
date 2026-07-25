@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Focado em **Desenvolvimento de Software**  
-🚀 Interessado em **Back-end, análise de dados e desenvolvimento web**
+🚀 Interessado em **Back-end, análise de dados, desenvolvimento web, IA, API e Banco de Dados **
 
 ---
 
